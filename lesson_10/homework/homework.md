@@ -22,7 +22,3 @@ Select a different tracker (e.g. CSRT) and repeat steps 2, 3 and 4.
 Compare the results:
 * Do you see any differences? If so, what are they?
 * Does one tracker perform better than the other? In what way?
-
-A: CSRT definitely 
-
-![](/Users/yarik/PycharmProjects/CV Course/lesson_10/homework/output_frames/CSRT_frame_0.jpg)
